@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<translations version="1">
+  <patch name="Prolog Indonesia v6" bundle="164d755f0e345785355fc8659fd55637" originalSha256="979518e80470ebe641896c94f6f942814e0606df9160c5e55a3b7f41932bf0b2" sha256="b602d3dc6ec50dc3cbd2c7fafeec8fd1bf73a5e0ad3b8cb699c7b8c3a8536a36" file="prologue-indonesia.bundle" requiredCache="true" localBundle="">
+    <previous sha256="c294d682e8b0cbd5c6fb7138e28b8d9c4a6a550ef6b8d873ee80657d9f5d2c10" />
+    <previous sha256="849fcb05e63de616fb99b0103be84f75c2828320ee24a10d03e7cfd363d09bf5" />
+    <previous sha256="7ab81a0af9b67d87528c933bf82a8b53836ac91879fafb81cad0e25e2df005bf" />
+    <previous sha256="04cd17cd3c93563f656e8d2a5a8650e93caf630eea70bce6487dd44738b7ad25" />
+    <previous sha256="9a187a19da437ecaf5bd21331ab31bc3c38649e75bd43b5e7c1ed05bb5ef7a07" />
+    <previous sha256="1d286463bad5f85dd4ed9297b8f866090a602f75c8da5dbc2859e1a5f97e1526" />
+    <previous sha256="64b2459b99f1f9b857f5456d5acfe63ea71a16bfddff12349c2ab206d78968d1" />
+    <previous sha256="5482f44822a571ec80b0a59f9a94ae4552b53cbb52d4a2d91e6b7e9b60c1c50e" />
+    <previous sha256="1dc30589198ad72c14ff0d9210d5ac62d095bfefeb4c77500e979feb4da00695" />
+  </patch>
+  <patch name="Subtitle intro" bundle="520064a0b9d15554844006fde20a6e62" originalSha256="bda329d32cf532cd16e493b12b761951954d7d5b83b1ab6df5b3596c230e573d" sha256="5719995a88d1dc0d58e9251d9d2a29ef4f4abdc3172ebcccb9c5353b75459a26" file="intro-indonesia.bundle" requiredCache="false" localBundle="520064a0b9d15554844006fde20a6e62.bundle" />
+  <patch name="UI Indonesia" bundle="2915d93e1563aa057426ea3e4224bc1b" originalSha256="f18fec87510e7eac02d75ab75d9564f39d773f02ae4c134cc8797187ba6d12be" sha256="32454b2ad2c649b5e58a6ad5007b09337f75014973e8d1fe3f25afd833c236f9" file="ui-indonesia.bundle" requiredCache="true" localBundle="">
+    <previous sha256="f18fec87510e7eac02d75ab75d9564f39d773f02ae4c134cc8797187ba6d12be" />
+  </patch>
+  <patch name="Label UI Indonesia" bundle="98beef381614d9873be745e83c3df311" originalSha256="87e2121d5d6dd8d4743173d2fd847178e02d90506dfb5c97b7b8618447c961df" sha256="6bcd0c5b42f3e1c216bd0764be8a8d216e52bc1667d481dd794210c83ffc9226" file="ui-labels-indonesia.bundle" requiredCache="true" localBundle="">
+    <previous sha256="701536bb65993641b0defa7dbdf8daac225f6d14d7b055623022971a81addb93" />
+    <previous sha256="87e2121d5d6dd8d4743173d2fd847178e02d90506dfb5c97b7b8618447c961df" />
+    <previous sha256="0695c6dffc5a0cf5ca0aa5143f6e26d3d24885f70ae02e995222f4725c271e13" />
+    <previous sha256="6fa938d42c7fd5b204a0d3c7084d4f39e7458fbf0dc71b25aa5d6beba646bcc1" />
+    <previous sha256="5a6c0099cdfa81176df66c06091df5fd40f0b5e0941719a5aa69a728e2165a7e" />
+    <previous sha256="6fd5b8085db623d199caa5caf128a6ef1d924f44488ba55c2b4b0807f0f75a33" />
+    <previous sha256="9620506d61aed44d55a4606c1ab4d6c6da020c911535172fcb77ae50da69c35e" />
+    <previous sha256="219bb251d5d44fc1e257c4dece9782e32cc8a3c84969f44c9fb06f0147aa4939" />
+  </patch>
+  <patch name="Dialog teheperinko Indonesia" bundle="90ba24615b14b2a604b953d9b2767b48" originalSha256="99b24691199374959ed14701e993fb7d483aca074dc20d8d779352ae7aa485c2" sha256="079a34a16dee9e21bceaf6ba4cc205830cb8c248f2059f689e7f4a8bc039821d" file="teheperinko-indonesia.bundle" requiredCache="false" localBundle="90ba24615b14b2a604b953d9b2767b48.bundle">
+    <previous sha256="99b24691199374959ed14701e993fb7d483aca074dc20d8d779352ae7aa485c2" />
+  </patch>
+</translations>
