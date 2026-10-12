@@ -1,7 +1,7 @@
 # SURGA MEMBARA MERAH
 **Project Fan-Translation Bahasa Indonesia untuk Heaven Burns Red.**
 
-Surga Membara Merah adalah project fan translation *Heaven Burns Red* ke Bahasa Indonesia yang masih dalam tahap pengembangan. Project ini mengubah file bundle dalam game dengan bundle yang sudah berisi naskah yang sudah diterjemahkan. **Project ini tidak mengubah file yang memberikan keuntungan dalam battle ataupun gameplay.**
+Surga Membara Merah adalah project fan translation *Heaven Burns Red* ke bahasa Indonesia yang masih dalam tahap pengembangan. Project ini mengubah file bundle dalam game dengan bundle yang sudah berisi naskah yang sudah diterjemahkan. **Project ini tidak mengubah file yang memberikan keuntungan dalam battle ataupun gameplay.**
 
 ## Status
 
@@ -22,6 +22,14 @@ Penerjemahan dan pengembangan patch masih berlangsung.
   - [ ] Social
   - [ ] Dungeon
 - [ ] Chapter 2
+
+## Instalasi
+
+1. Buka Heaven Burns Red sampai home dan prolog sampai dialog muncul, lalu tutup game.
+2. Ekstrak ZIP patch.
+3. Jalankan HBR-Indonesian-Patch.exe, lalu pilih folder yang berisi HeavenBurnsRed.exe.
+4. Klik Pasang patch, tunggu sampai berhasil, lalu buka game kembali.
+Untuk mengembalikan bahasa Inggris, tutup game lalu klik Restore. Jangan hapus backup installer.
 
 ## Disclaimer
 
